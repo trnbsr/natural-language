@@ -3,13 +3,13 @@ b	b
 b	p	
 m	m	
 h	h	
-hu	kh	
-fu	ph	
-fi	v	
+ho	kh	
+f	ph	
+fu	v	
 s	s	
 si	x	
-tu	th	
-dy	đ	
+t	th	
+ly	đ	
 d	t	
 n	ng	
 n	ngh	
@@ -23,6 +23,6 @@ g	c
 gi	g	
 gi	gh	
 ge	k	
-gu	qu	
+gw	qu	
 nl	n	
 l	l	
