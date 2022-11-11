@@ -1,6 +1,6 @@
 natural	chữ Quốc ngữ	
-b	b	
-p	p	
+bm	b	
+b	p	
 m	m	
 h	h	
 hh	kh	
@@ -9,16 +9,16 @@ fw	v
 sh	s	
 s	x	
 t	th	
-dy	đ	
+dl	đ	
 d	t	
 n	ng	
 n	ngh	
 nn	nh	
 c	ch	
 ch	tr	
-j	d	
-ji	gi	
-jy	r	
+sy	d	
+si	gi	
+suo	r	
 g	c	
 gh	g	
 gh	gh	
