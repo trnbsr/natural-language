@@ -1,17 +1,5 @@
 natural	chữ Quốc ngữ	
-aa	a	
-a	ă	
-ee	e	
-e	ê	
-i	i	
-o	o	
-uo	â	
-uoo	ơ	
-u	u	
-ou	ô	
-iu	ư	
-y	y	
-b	p	
+p	p	
 m	m	
 d	t	
 n	ng	
