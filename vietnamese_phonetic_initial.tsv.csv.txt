@@ -16,13 +16,13 @@ n	ngh
 nn	nh	
 c	ch	
 ch	tr	
-sy	d	
-si	gi	
-suo	r	
+dy	d	
+sy	gi	
+lw	r	
 g	c	
+g	k	
 gh	g	
 gh	gh	
-g	k	
 gw	qu	
 nl	n	
 l	l	
