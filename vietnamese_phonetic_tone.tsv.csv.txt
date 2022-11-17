@@ -1,7 +1,7 @@
-natual	natual(number only)	name	chữ Quốc ngữ	
-(no symbol)	6	unmarked	◌	
-4~	5	tilde	◌̃ 	
-4	4	acute accent	◌́ 	
-3	3	hook above	◌̉ 	
-2	2	dot below	◌̣ 	
-1	1	grave accent	◌̀ 	
+natual	natual(number)	name	chữ Quốc ngữ	
+-	6	unmarked	◌	
+~	5	tilde	◌̃ 	
+/	4	acute accent	◌́ 	
+?	3	hook above	◌̉ 	
+.	2	dot below	◌̣ 	
+\	1	grave accent	◌̀ 	
