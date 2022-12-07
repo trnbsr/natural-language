@@ -18,7 +18,7 @@ c	ch
 ch	tr	
 dy	d	
 sy	gi	
-lw	r	
+yw	r	
 g	c	
 g	k	
 gh	g	
