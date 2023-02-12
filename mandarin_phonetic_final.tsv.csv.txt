@@ -1,39 +1,39 @@
-natural
-a
-wa
-ya
-o
-wo
-yo
-oa
-e
-ye
-yue
-i
-u
-ua
-y
-ai
-wai
-an
-wan
-au
-yau
-aon
-waon
-yaon
-ei
-wei
-yen
-yuen
-in
-ino
-ou
-you
-uan
-wuan
-uaon
-wuaon
-uon
-yuon
-yun
+natural	IPA	Pinyin	Zhuyin
+a	a	a	ㄚ
+wa	wa	ua	ㄨㄚ
+ya	ja	ia	ㄧㄚ
+o	ɔ	o	ㄛ
+wo	wo	uo	ㄨㄛ
+yo	jɔ	io	ㄧㄛ
+oa	ɤ	e	ㄜ
+e	ɛ	ê	ㄝ
+ye	je	ie	ㄧㄝ
+yue	ɥe	üe	ㄩㄝ
+i	i	i	ㄧ
+u	u	u	ㄨ
+ua	aɚ̯	er	ㄦ
+y	y	ü	ㄩ
+ai	ai̯	ai	ㄞ
+wai	wai̯	uai	ㄨㄞ
+an	an	an	ㄢ
+wan	wan	uan	ㄨㄢ
+au	au̯	ao	ㄠ
+yau	jau̯	iao	ㄧㄠ
+aon	aŋ	ang	ㄤ
+waon	waŋ	uang	ㄨㄤ
+yaon	jaŋ	iang	ㄧㄤ
+ei	ei̯	ei	ㄟ
+wei	wei̯	u(e)i	ㄨㄟ
+yen	jɛn	ian 	ㄧㄢ
+yuen	ɥɛn	üan	ㄩㄢ
+in	in	in	ㄧㄣ
+ino	iŋ	ing	ㄧㄥ
+ou	ou̯	ou	ㄡ
+you	jou̯	i(o)u 	ㄧㄡ
+uan	ən	en	ㄣ
+wuan	wən	uen	ㄨㄣ
+uaon	əŋ	eng	ㄥ
+wuaon	wəŋ	ueng	ㄨㄥ
+uon	ʊŋ	ong	ㄨㄥ
+yuon	jʊŋ	iong	ㄩㄥ
+yun	yn	ün	ㄩㄣ
