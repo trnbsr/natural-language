@@ -1,10 +1,15 @@
-natural kana  kana(alternative)
+natural	kana	kana(alternative)
 x	ッ
 a	ア
 i	イ
 u	ウ
 e	エ
 o	オ
+a)	ァ
+i)	ィ
+u)	ゥ
+e)	ェ
+o)	ォ
 fa	ヷ	ヴァ
 fi	ヸ	ヴィ
 fu	ヴ
@@ -48,11 +53,6 @@ di	ディ
 du	ドゥ
 de	デ
 do	ド
-na	ナ
-ni	ニ
-nu	ヌ
-ne	ネ
-no	ノ
 ha	ハ
 hi	ヒ
 hu	フ
@@ -74,16 +74,21 @@ mi	ミ
 mu	ム
 me	メ
 mo	モ
-ya	ヤ
-yi	ユィ	イィ
-yu	ユ
-ye	ユェ	イェ
-yo	ヨ
+nla	ナ
+nli	ニ
+nlu	ヌ
+nle	ネ
+nlo	ノ
 la	ラ
 li	リ
 lu	ル
 le	レ
 lo	ロ
+ya	ヤ
+yi	ユィ	イィ
+yu	ユ
+ye	ユェ	イェ
+yo	ヨ
 wa	ワ
 wi	ヰ
 wu	ヲゥ	ウゥ
@@ -111,6 +116,7 @@ I	い
 U	う
 E	え
 O	お
+WO	を
 Fu	ゔ
 Ka	か
 Ki	き
@@ -166,11 +172,11 @@ Mi	み
 Mu	む
 Me	め
 Mo	も
-Na	な
-Ni	に
-Nu	ぬ
-Ne	ね
-No	の
+NLa	な
+NLi	に
+NLu	ぬ
+NLe	ね
+NLo	の
 La	ら
 Li	り
 Lu	る
@@ -217,9 +223,9 @@ Pyo	ぴょ
 Mya	みゃ
 Myu	みゅ
 Myo	みょ
-Nya	にゃ
-Nyu	にゅ
-Nyo	にょ
+NLya	にゃ
+NLyu	にゅ
+NLyo	にょ
 Lya	りゃ
 Lyu	りゅ
 Lyo	りょ
