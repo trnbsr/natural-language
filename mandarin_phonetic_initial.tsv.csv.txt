@@ -1,24 +1,24 @@
-natural
-b
-p
-m
-f
-d
-t
-nl
-l
-g
-k
-h
-j
-ji
-ju
-c
-ci
-cu
-s
-si
-su
-y
-yu
-w
+natural	IPA	Pinyin	Zhuyin
+b	p	b	ㄅ
+p	pʰ	p	ㄆ
+m	m	m	ㄇ
+f	f	f	ㄈ
+d	t	d	ㄉ
+t	tʰ	t	ㄊ
+nl	n	n	ㄋ
+l	l	l	ㄌ
+g	k	g	ㄍ
+k	kʰ	k	ㄎ
+h	x/h	h	ㄏ
+j	tɕ	j	ㄐ
+ji	ʈʂ	zh	ㄓ
+ju	ts	z	ㄗ
+c	tɕʰ	q	ㄑ
+ci	ʈʂʰ	ch	ㄔ
+cu	tsʰ	c	ㄘ
+s	ɕ	x	ㄒ
+si	ʂ	sh	ㄕ
+su	s	s	ㄙ
+y	j	y	ㄧ
+yu	ɻ~ʐ/ɥ	r/yu	ㄖ/ㄩ
+w	w	w	ㄨ
