@@ -123,6 +123,7 @@ Ki	き
 Ku	く
 Ke	け
 Ko	こ
+KGa	か
 Ga	が
 Gi	ぎ
 Gu	ぐ
@@ -155,6 +156,7 @@ Hi	ひ
 Hu	ふ
 He	へ
 Ho	ほ
+HE	へ
 Yhe	へ
 Whe	へ
 Ba	ば
