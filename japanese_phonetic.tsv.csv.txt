@@ -148,6 +148,7 @@ CJu	づ
 Ta	た
 Te	て
 To	と
+TDa	た
 Da	だ
 De	で
 Do	ど
