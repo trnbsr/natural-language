@@ -37,11 +37,11 @@ ji	ジ
 ju	ズ
 je	ゼ
 jo	ゾ
-ca	ツァ	チャ
+ca	ツァ
 ci	チ
-cu	ツ	チュ
-ce	ツェ	チェ
-co	ツォ	チョ
+cu	ツ
+ce	ツェ
+co	ツォ
 c	ツ
 ta	タ
 ti	ティ
@@ -94,6 +94,7 @@ wi	ヰ
 wu	ヲゥ	ウゥ
 we	ヱ
 wo	ヲ
+wa)	ヮ
 nn	ン
 nm	ㇺ	ン
 cji	ヂ
@@ -103,6 +104,51 @@ fhi	フィ
 fhu	フ
 fhe	フェ
 fho	フォ
+wyu	ウュ
+fya	ヴャ
+fyu	ヴュ
+fyo	ヴョ
+kya	キャ
+kyu	キュ
+kyo	キョ
+gya	ギャ
+gyu	ギュ
+gyo	ギョ
+sya	シャ
+syu	シュ
+syo	ショ
+jya	ジャ
+jyu	ジュ
+jyo	ジョ
+cya	チャ
+cyu	チュ
+cyo	チョ
+cjya	ヂャ
+cjyu	ヂュ
+cjyo	ヂョ
+tyu	テュ
+dyu	デュ
+hya	ヒャ
+hyu	ヒュ
+hyo	ヒョ
+bya	ビャ
+byu	ビュ
+byo	ビョ
+pya	ピャ
+pyu	ピュ
+pyo	ピョ
+mya	ミャ
+myu	ミュ
+myo	ミョ
+nlya	ニャ
+nlyu	ニュ
+nlyo	ニョ
+lya	リャ
+lyu	リュ
+lyo	リョ
+fhya	フャ
+fhyu	フュ
+fhyo	フョ
 -	ー
 ~	あ/い/う/え/お
 _	ぁ/ぃ/ぅ/ぇ/ぉ
