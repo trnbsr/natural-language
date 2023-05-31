@@ -195,6 +195,7 @@ Ta	た
 Te	て
 To	と
 TDa	た
+TDe	て
 Da	だ
 De	で
 Do	ど
