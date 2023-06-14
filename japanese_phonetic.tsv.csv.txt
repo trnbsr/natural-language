@@ -196,6 +196,7 @@ Te	て
 To	と
 TDa	た
 TDe	て
+TDo	と
 Da	だ
 De	で
 Do	ど
