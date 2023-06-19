@@ -163,6 +163,7 @@ U	う
 E	え
 O	お
 WO	を
+I)	い
 Fu	ゔ
 Ka	か
 Ki	き
