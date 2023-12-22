@@ -111,9 +111,11 @@ fyo	ヴョ
 kya	キャ
 kyu	キュ
 kyo	キョ
+kwa	クヮ
 gya	ギャ
 gyu	ギュ
 gyo	ギョ
+gwa	グヮ
 sya	シャ
 syu	シュ
 syo	ショ
