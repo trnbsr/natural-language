@@ -74,6 +74,7 @@ mi	ミ
 mu	ム
 me	メ
 mo	モ
+m	ㇺ	ム
 nla	ナ
 nli	ニ
 nlu	ヌ
