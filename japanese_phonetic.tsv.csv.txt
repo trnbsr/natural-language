@@ -105,6 +105,11 @@ fhi	フィ
 fhu	フ
 fhe	フェ
 fho	フォ
+bwa	ヷ	ヴァ
+bwi	ヸ	ヴィ
+bwu	ヴ
+bwe	ヹ	ヴェ
+bwo	ヺ	ヴォ
 wyu	ウュ
 fya	ヴャ
 fyu	ヴュ
@@ -152,6 +157,9 @@ lyo	リョ
 fhya	フャ
 fhyu	フュ
 fhyo	フョ
+bwya	ヴャ
+bwyu	ヴュ
+bwyo	ヴョ
 -	ー/イ/ウ/あ/い/う
 ~	え/お
 _	ぁ/ぃ/ぅ/ぇ/ぉ
