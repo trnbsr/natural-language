@@ -97,7 +97,8 @@ we	ヱ
 wo	ヲ
 wa)	ヮ
 nn	ン
-nm	ㇺ	ン
+n)	ン
+nm)	ㇺ	ン
 cji	ヂ
 cju	ヅ
 fha	ファ
@@ -255,8 +256,8 @@ We	ゑ
 Wo	を
 Wha	は
 NN	ん
-Nn	ん
-Nm	ん
+N)	ん
+Nm)	ん
 Fhu	ふ
 Kya	きゃ
 Kyu	きゅ
