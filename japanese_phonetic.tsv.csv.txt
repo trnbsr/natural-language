@@ -5,11 +5,11 @@ i	イ
 u	ウ
 e	エ
 o	オ
-a)	ァ
-i)	ィ
-u)	ゥ
-e)	ェ
-o)	ォ
+a>	ァ
+i>	ィ
+u>	ゥ
+e>	ェ
+o>	ォ
 fa	ヷ	ヴァ
 fi	ヸ	ヴィ
 fu	ヴ
@@ -20,7 +20,7 @@ ki	キ
 ku	ク
 ke	ケ
 ko	コ
-k	ㇰ	ク
+k)	ㇰ	ク
 ga	ガ
 gi	ギ
 gu	グ
@@ -31,7 +31,7 @@ si	シ
 su	ス
 se	セ
 so	ソ
-s	ㇲ	ス
+s)	ㇲ	ス
 ja	ザ
 ji	ジ
 ju	ズ
@@ -42,7 +42,7 @@ ci	チ
 cu	ツ
 ce	ツェ
 co	ツォ
-c	ツ
+c)	ツ
 ta	タ
 ti	ティ
 tu	トゥ
@@ -58,7 +58,7 @@ hi	ヒ
 hu	フ
 he	ヘ
 ho	ホ
-h	ㇷ	フ
+h)	ㇷ	フ
 ba	バ
 bi	ビ
 bu	ブ
@@ -74,7 +74,7 @@ mi	ミ
 mu	ム
 me	メ
 mo	モ
-m	ㇺ	ム
+m)	ㇺ	ム
 nla	ナ
 nli	ニ
 nlu	ヌ
