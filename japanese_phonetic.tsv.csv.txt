@@ -183,6 +183,7 @@ Ku	く
 Ke	け
 Ko	こ
 KGa	か
+KGe	け
 Ga	が
 Gi	ぎ
 Gu	ぐ
