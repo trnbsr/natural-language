@@ -237,6 +237,7 @@ Mi	み
 Mu	む
 Me	め
 Mo	も
+Maui	ま
 NLa	な
 NLi	に
 NLu	ぬ
