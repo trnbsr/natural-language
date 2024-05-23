@@ -184,6 +184,7 @@ Ke	け
 Ko	こ
 KGa	か
 KGe	け
+KGo	こ
 Ga	が
 Gi	ぎ
 Gu	ぐ
