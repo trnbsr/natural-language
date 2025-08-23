@@ -217,9 +217,9 @@ TDo	と
 Da	だ
 De	で
 Do	ど
-tDa	だ
-tDe	で
-tDo	ど
++Da	だ
++De	で
++Do	ど
 Ha	は
 Hi	ひ
 Hu	ふ
