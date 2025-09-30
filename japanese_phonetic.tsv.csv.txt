@@ -192,6 +192,7 @@ Gi	ぎ
 Gu	ぐ
 Ge	げ
 Go	ご
+=Ga	が
 Sa	さ
 Si	し
 Su	す
@@ -203,6 +204,7 @@ Ji	じ
 Ju	ず
 Je	ぜ
 Jo	ぞ
+=Ja	ざ
 Ci	ち
 Cu	つ
 C	つ
@@ -220,6 +222,7 @@ Do	ど
 +Da	だ
 +De	で
 +Do	ど
+=Do	ど
 Ha	は
 Hi	ひ
 Hu	ふ
@@ -233,6 +236,7 @@ Bi	び
 Bu	ぶ
 Be	べ
 Bo	ぼ
+=Bi	び
 Pa	ぱ
 Pi	ぴ
 Pu	ぷ
